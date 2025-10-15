@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.log
+.env
+.env.*
+.vscode/
+.idea/
+goodt.db
+keypair.json
